@@ -1,6 +1,6 @@
 ### A TechBizDevs Development
 ### More will be available soon.
-### Any questions, email us at admin@techbizdevs.com
+### Any questions? Email us: admin@techbizdevs.com
 
 
 <!--
